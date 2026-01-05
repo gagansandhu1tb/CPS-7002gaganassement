@@ -1,0 +1,8 @@
+id,user_id,message,delivered
+1,1,New cafeteria menu available,True
+2,2,Room change for CS101,False
+3,23,dcwrdedd,True
+4,1,New route 'new → ddd' added,False
+5,1,Route 201 deleted,False
+6,1,Route 'Gym → Lecture Hall A' updated,False
+7,1,Route 'Gym → Library' updated,False
